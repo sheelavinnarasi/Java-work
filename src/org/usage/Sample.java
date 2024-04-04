@@ -6,6 +6,8 @@ public static void main(String[] args) {
 	String s="JavaUtill";
 	System.out.println(s);
 	System.out.println("Greens");
+	int a=10;
+	System.out.println(a);
 	
 }
 }
